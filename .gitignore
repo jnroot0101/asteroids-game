@@ -10,3 +10,5 @@ wheels/
 .venv
 
 .idea
+
+game_state.jsonl
